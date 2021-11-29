@@ -7,6 +7,22 @@ wrong_pass_message: 抱歉，这个密码看着不太对，请再试试。
 wrong_hash_message: 抱歉，这个文章不能被纠正，不过您还是能看看解密后的内容。
 ---
 <img src="" width="50%">
+<table>
+  <tr>
+    <td align="center"><a target="_bank" href="https://app.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/>
+      <div><sub><b>越米云助教(web)</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米管理后台(web)</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米云助教-纸笔课堂(web)</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://analysis.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>卡越数据统计(web)</b></sub><div></a></td>
+  </tr>
+    <tr>
+    <td align="center"><a target="_bank" href="https://app.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/>
+      <div><sub><b>越米云助教(web)</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米管理后台(web)</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米云助教-纸笔课堂(web)</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://analysis.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>卡越数据统计(web)</b></sub><div></a></td>
+  </tr>
+</table>
 
 # 越米自习室(小程序)
 
