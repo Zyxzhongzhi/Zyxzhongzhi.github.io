@@ -1,6 +1,6 @@
 ---
 title: 个人项目
-password: 11111
+password: 1224
 abstract: 这里有东西被加密了，需要输入密码查看哦。
 message: 您好，这里需要密码。
 wrong_pass_message: 抱歉，这个密码看着不太对，请再试试。
