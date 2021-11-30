@@ -68,7 +68,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+    性能测试
+    面试
 tag_map:
+    性能测试
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
@@ -97,8 +100,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+# theme: ayer
 theme: geek
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
