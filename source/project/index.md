@@ -10,28 +10,21 @@ wrong_hash_message: 抱歉，这个文章不能被纠正，不过您还是能看
 <table>
   <tr>
     <td align="center"><a target="_bank" href="https://app.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/>
-      <div><sub><b>越米云助教(web)</b></sub><div></a></td>
-    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米管理后台(web)</b></sub><div></a></td>
+      <div><sub><b>越米管理后台(web)</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米云助教(web)</b></sub><div></a></td>
     <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米云助教-纸笔课堂(web)</b></sub><div></a></td>
     <td align="center"><a target="_bank" href="https://analysis.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>卡越数据统计(web)</b></sub><div></a></td>
-  </tr>
-    <tr>
-    <td align="center"><a target="_bank" href="https://app.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/>
-      <div><sub><b>越米云助教(web)</b></sub><div></a></td>
-    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米管理后台(web)</b></sub><div></a></td>
-    <td align="center"><a target="_bank" href="https://resource.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>越米云助教-纸笔课堂(web)</b></sub><div></a></td>
-    <td align="center"><a target="_bank" href="https://analysis.ktwelve.com.cn"><img src="" width="100px;" height="100px;"  alt=""/><div><sub><b>卡越数据统计(web)</b></sub><div></a></td>
-  </tr>
 </table>
 
-# 越米自习室(小程序)
+## 越米自习室(小程序)
+&nbsp;&nbsp;&nbsp;&nbsp;无缝链接线上线下作业场景，致力于中小学课后作业的规范、作业质量的把控和作业效率的提升
 
-# 越米管理后台(web)
+## 越米管理后台(web)
 
-# 越米云助教(web)
+## 越米云助教(web)
 
-# 越米云助教-纸笔课堂(web)
+## 越米云助教-纸笔课堂(web)
 
-# 卡越数据统计(web)
+## 卡越数据统计(web)
 
-# 卡越教育 课程中心-商城(小程序)
+## 卡越教育 课程中心-商城(小程序)
