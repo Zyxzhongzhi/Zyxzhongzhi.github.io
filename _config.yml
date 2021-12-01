@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zyxzhongzhi的Hexo
+title: Zyxzhongzhi的HexoBlog
 subtitle: ''
 description: ''
 keywords:
@@ -100,8 +100,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: ayer
-theme: geek
+theme: ayer
+# theme: geek
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
