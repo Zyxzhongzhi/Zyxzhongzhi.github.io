@@ -5,6 +5,8 @@ categories:
 tags:
 - QA
 ---
+###### bug管理工具：禅道、redmine、testlink
+testlink的使用详解：https://www.cnblogs.com/gezi-susan/p/11157720.html
 ###### QA与测试的区别
 QA在项目中的作用，除了发现软件的bug之外，还需要有发现项目流程bug ，同时要善于去疏通项目流程，推动项目前进，提高自己在项目中的主导地位。
 侧重在问题跟进和解决，注重结果达成：能够协助干系部门解决问题，辅助团队制定工作流程；

@@ -22,7 +22,9 @@ wrong_hash_message: 抱歉，这个文章不能被纠正，不过您还是能看
 ## 越米管理后台(web)
 
 ## 越米云助教(web)
-
+并发测试：172.168.70.195/api/z-user/index-course-list?s_token=0126da6ca55a185866b81aaedccca13cc5a69af3&material_id=49671&chapter_id=&level=&class_id=1
+需要开发特殊处理，s_token放在url中即可
+并发量从20提升至200：修改了认证。
 ## 越米云助教-纸笔课堂(web)
 
 ## 卡越数据统计(web)
