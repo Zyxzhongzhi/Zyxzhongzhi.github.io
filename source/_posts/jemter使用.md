@@ -13,3 +13,6 @@ tags:
 
 ###### HTTP Header Manager
 ![设置全局变量](\source\_posts\jmeter使用/设置全局变量.png)
+
+
+###### 并发测试
